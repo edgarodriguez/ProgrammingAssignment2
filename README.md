@@ -42,6 +42,7 @@ really a list containing a function to
                  setmean = setmean,
                  getmean = getmean)
     }
+    
 
 The following function calculates the mean of the special "vector"
 created with the above function. However, it first checks to see if the
